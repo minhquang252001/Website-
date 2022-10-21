@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Học F8",
+			"path": "../../Học F8"
+		},
+		{
+			"name": "F8_shop",
+			"path": "../../../F8_shop"
+		},
+		{
+			"name": "Test1",
+			"path": "../../../F8_shop/Test1"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Học F8"
+	}
+}
